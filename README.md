@@ -35,7 +35,7 @@ Follow these steps to set up and run the project on your local machine:
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/react-native-expo-project.git
+git clone -b feature https://github.com/freehuba/react-native-expo-mobile-app.git
 cd react-native-expo-project
 
 Install dependencies:
